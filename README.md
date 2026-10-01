@@ -3,7 +3,7 @@
 ---
 
 This repository includes:
-- The abstract of the paper presented at the GIS v Sloveniji 18 conference
+- The abstract of the paper presented at the 'GIS v Sloveniji 18' conference
 - A description of the proposed snow segmentation method, the datasets and the experiments
 - Results of the k-fold cross-validation and of testing on an independent test set
 - The complete codebase for dataset creation, model training and evaluation
